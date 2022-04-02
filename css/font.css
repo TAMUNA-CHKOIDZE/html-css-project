@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'Barlow';
+    src: url('/font/Barlow-Regular.eot');
+    src: url('/font/Barlow-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/font/Barlow-Regular.woff2') format('woff2'),
+        url('/font/Barlow-Regular.woff') format('woff'),
+        url('/font/Barlow-Regular.ttf') format('truetype'),
+        url('/font/Barlow-Regular.svg#Barlow-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('/font/RobotoSlab-Bold.eot');
+    src: url('/font/RobotoSlab-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/font/RobotoSlab-Bold.woff2') format('woff2'),
+        url('/font/RobotoSlab-Bold.woff') format('woff'),
+        url('/font/RobotoSlab-Bold.ttf') format('truetype'),
+        url('/font/RobotoSlab-Bold.svg#RobotoSlab-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('/font/PlayfairDisplay-Medium.eot');
+    src: url('/font/PlayfairDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/font/PlayfairDisplay-Medium.woff2') format('woff2'),
+        url('/font/PlayfairDisplay-Medium.woff') format('woff'),
+        url('/font/PlayfairDisplay-Medium.ttf') format('truetype'),
+        url('/font/PlayfairDisplay-Medium.svg#PlayfairDisplay-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('/font/Barlow-ExtraLight.eot');
+    src: url('/font/Barlow-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('/font/Barlow-ExtraLight.woff2') format('woff2'),
+        url('/font/Barlow-ExtraLight.woff') format('woff'),
+        url('/font/Barlow-ExtraLight.ttf') format('truetype'),
+        url('/font/Barlow-ExtraLight.svg#Barlow-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('/font/Barlow-Medium.eot');
+    src: url('/font/Barlow-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/font/Barlow-Medium.woff2') format('woff2'),
+        url('/font/Barlow-Medium.woff') format('woff'),
+        url('/font/Barlow-Medium.ttf') format('truetype'),
+        url('/font/Barlow-Medium.svg#Barlow-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
